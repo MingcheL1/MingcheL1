@@ -29,7 +29,7 @@ I like coding, listening to music, producing music, playing video games, hanging
 
 <div align="center">
 
-[![Vibes and Bangers](https://img.shields.io/badge/Vibes_and_Bangers-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/26C5JqyWvN7GpbuBwMSqvp?si=456335e522904467)
+[![Vibes](https://img.shields.io/badge/Vibes-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/26C5JqyWvN7GpbuBwMSqvp?si=456335e522904467)
 
 [![Chill](https://img.shields.io/badge/Chill-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0lFsE3q5fpa6egPdGwdYW6?si=5ca916b00e5d47c7)
 
