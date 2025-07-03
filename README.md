@@ -2,7 +2,6 @@
 
 I like coding, listening to music, producing music, playing video games, hanging out with friends, eating, and sleeping.
 
----
 
 ## 🚀 Most Used Languages
 
@@ -14,7 +13,7 @@ I like coding, listening to music, producing music, playing video games, hanging
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+
 
 ## 🔗 Useful Links
 
@@ -24,20 +23,20 @@ I like coding, listening to music, producing music, playing video games, hanging
 
 </div>
 
----
+
 
 ## 🎧 My Spotify Playlists
 
 <div align="center">
 
-[![Vibes and Bangers]([https://img.shields.io/badge/Late_Night_Coding-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/your_playlist_link1](https://open.spotify.com/playlist/26C5JqyWvN7GpbuBwMSqvp?si=456335e522904467))
+[![Vibes and Bangers](https://img.shields.io/badge/Vibes_and_Bangers-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/26C5JqyWvN7GpbuBwMSqvp?si=456335e522904467)
 
-[![Chill]([https://img.shields.io/badge/Bedroom_Jams-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/your_playlist_link2](https://open.spotify.com/playlist/0lFsE3q5fpa6egPdGwdYW6?si=5ca916b00e5d47c7))
+[![Chill](https://img.shields.io/badge/Chill-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0lFsE3q5fpa6egPdGwdYW6?si=5ca916b00e5d47c7)
 
-[![(❤️‍🩹)]([https://img.shields.io/badge/Hyperpop_Breakdowns-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/your_playlist_link3](https://open.spotify.com/playlist/5dqwzAOBfbEAGlEolWxxBp?si=0a19942c20b14ccf))
+[![❤️‍🩹](https://img.shields.io/badge/Sad_Stuff-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5dqwzAOBfbEAGlEolWxxBp?si=0a19942c20b14ccf)
 
 </div>
 
----
+
 
 
