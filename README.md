@@ -33,7 +33,7 @@ I like coding, listening to music, producing music, playing video games, hanging
 
 [![Chill](https://img.shields.io/badge/Chill-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0lFsE3q5fpa6egPdGwdYW6?si=5ca916b00e5d47c7)
 
-[![❤️‍🩹](https://img.shields.io/badge/Sad_Stuff-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5dqwzAOBfbEAGlEolWxxBp?si=0a19942c20b14ccf)
+[![Heal](https://img.shields.io/badge/Sad_Stuff-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5dqwzAOBfbEAGlEolWxxBp?si=0a19942c20b14ccf)
 
 </div>
 
